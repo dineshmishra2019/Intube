@@ -1,0 +1,6 @@
+Django
+channels
+daphne
+httpx
+langchain
+langchain-community

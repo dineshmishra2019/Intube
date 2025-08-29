@@ -1,0 +1,5 @@
+create a website to access and store images and video. for example youtube, facebook or instagram. 
+user can make their images and videos public or private. 
+users can only view  public images & videos. 
+private images and videos can not be viewed by anyone except the owner
+user have proper login / authentication process.
